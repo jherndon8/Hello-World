@@ -9,6 +9,9 @@ I have used git through source tree in my work at Elavon, and now I want to figu
 
 This is my first addition from the command line in VI
 
+Step 0
+This is actually step 4, but please read step 3.
+
 Step 1
 Lemme add some crap, then go to the command line, then save this here, then try pushing from the command line.
 
