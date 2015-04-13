@@ -20,3 +20,6 @@ I'm in the command line, step 1 is currently invisible
 
 Step 3
 I'm going to see if I can add stuff in a completely separate location. Step 0 does not currently exist, so I will see if I can commit these without issues / conflicts
+
+Step 4
+I'm adding a step from the dev branch
