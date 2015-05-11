@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  var fontsize = 12;
+  var fontsize = 120;
   $("#mytext").fontSize = fontsize
   $("div").onclick(function() {
     fontsize = fontsize + 3;
