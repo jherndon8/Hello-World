@@ -3,6 +3,7 @@ $(document).ready(function() {
   $("#mytext").fontSize = fontsize
   $("div").onclick(function() {
     fontsize = fontsize + 3;
-    $(this).fontSize = fontsize;
+    $("#mytext").fontSize = fontsize;
+    $("mytext").append("a");
   });
 });
