@@ -23,3 +23,5 @@ I'm going to see if I can add stuff in a completely separate location. Step 0 do
 
 Step 4
 Merging the conflict between dev and test branches
+
+Just a quick review (From command line)
