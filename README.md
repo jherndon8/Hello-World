@@ -24,4 +24,9 @@ I'm going to see if I can add stuff in a completely separate location. Step 0 do
 Step 4
 Merging the conflict between dev and test branches
 
+<<< HEAD
 Just a quick review (From command line)
+=======
+Just a quick review (From github.com edit)
+>>> 250dc6e4d2315640b498757b075ef29cc31a34ec
+This was result after pull from command line, this line indicates a fix

@@ -1,8 +1,9 @@
-$(document).ready(function() {
-  var fontsize = 12;
+(document).ready(function() {
+  var fontsize = 120;
   $("#mytext").fontSize = fontsize
-  $("#mytext").onclick(function() {
+  $("div").onclick(function() {
     fontsize = fontsize + 3;
-    $(this).fontSize = fontsize;
+    $("#mytext").fontSize = fontsize;
+    $("mytext").append("a");
   });
 });
