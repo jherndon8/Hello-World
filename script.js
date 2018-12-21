@@ -1,17 +1,3 @@
-$(document).ready(function() {
-  /*var fontsize = 120;
-  $("#mytext").fontSize = fontsize
-  $("div").onclick(function() {
-    fontsize = fontsize + 3;
-    $("#mytext").fontSize = fontsize;
-    $("mytext").append("a");
-  });
-  
-  fetch('https://pokeapi.co/api/v2/pokemon/ditto')
-  .then(response => response.json())
-  .then(json => console.log(json))
-  */
-  // Create a request variable and assign a new XMLHttpRequest object to it.
 var request = new XMLHttpRequest();
 
 // Open a new connection, using the GET request on the URL endpoint
@@ -36,4 +22,3 @@ request.onload = function () {
 
 // Send request
 request.send();
-});
